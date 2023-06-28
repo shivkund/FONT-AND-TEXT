@@ -1,0 +1,25 @@
+#parent{
+    border: 10px solid black;
+    height: 200px;
+    width: 400px;
+    background-image: url(./images.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#icon{
+    font-size: 90px;
+    color: red;
+}
+#div1{
+   
+    margin-left:150px;
+    margin-top: -90px;
+    background-size: cover;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Niconne', cursive;
+    color:darkred;
+    text-align:left;
+    text-transform: capitalize;
+    word-spacing: 2px;
+    font-size:larger;
+}
